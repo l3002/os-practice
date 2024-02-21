@@ -1,0 +1,1 @@
+cmd_/home/l3002/os-practice/hello-proc-entry/hello.ko := ld -r -m elf_x86_64 -z noexecstack --build-id=sha1  -T scripts/module.lds -o /home/l3002/os-practice/hello-proc-entry/hello.ko /home/l3002/os-practice/hello-proc-entry/hello.o /home/l3002/os-practice/hello-proc-entry/hello.mod.o;  true

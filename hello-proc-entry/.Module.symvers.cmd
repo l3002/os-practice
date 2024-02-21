@@ -1,0 +1,1 @@
+cmd_/home/l3002/os-practice/hello-proc-entry/Module.symvers :=  scripts/mod/modpost -m -a     -o /home/l3002/os-practice/hello-proc-entry/Module.symvers -T /home/l3002/os-practice/hello-proc-entry/modules.order -i Module.symvers -e 

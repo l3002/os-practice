@@ -1,0 +1,1 @@
+cmd_/home/l3002/os-practice/hello-proc-entry/hello.mod := printf '%s\n'   hello.o | awk '!x[$$0]++ { print("/home/l3002/os-practice/hello-proc-entry/"$$0) }' > /home/l3002/os-practice/hello-proc-entry/hello.mod
