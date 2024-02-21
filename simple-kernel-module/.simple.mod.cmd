@@ -1,0 +1,1 @@
+savedcmd_/home/l3002/OSPractice/simple-kernel-module/simple.mod := printf '%s\n'   simple.o | awk '!x[$$0]++ { print("/home/l3002/OSPractice/simple-kernel-module/"$$0) }' > /home/l3002/OSPractice/simple-kernel-module/simple.mod

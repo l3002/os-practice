@@ -1,0 +1,1 @@
+savedcmd_/home/l3002/OSPractice/simple-kernel-module/Module.symvers :=  scripts/mod/modpost -m -a      -o /home/l3002/OSPractice/simple-kernel-module/Module.symvers -T /home/l3002/OSPractice/simple-kernel-module/modules.order -i Module.symvers -e 
