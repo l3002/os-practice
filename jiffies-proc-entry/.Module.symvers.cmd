@@ -1,0 +1,1 @@
+savedcmd_/home/l3002/OSPractice/jiffies-proc-entry/Module.symvers :=  scripts/mod/modpost -m -a      -o /home/l3002/OSPractice/jiffies-proc-entry/Module.symvers -T /home/l3002/OSPractice/jiffies-proc-entry/modules.order -i Module.symvers -e 
