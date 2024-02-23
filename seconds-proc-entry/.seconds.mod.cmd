@@ -1,0 +1,1 @@
+savedcmd_/home/l3002/OSPractice/seconds-proc-entry/seconds.mod := printf '%s\n'   seconds.o | awk '!x[$$0]++ { print("/home/l3002/OSPractice/seconds-proc-entry/"$$0) }' > /home/l3002/OSPractice/seconds-proc-entry/seconds.mod
